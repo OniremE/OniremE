@@ -1,4 +1,4 @@
-## Hi there 👋 My Name is Enrique 😎
+<h1><strong> Hi there 👋 My Name is Enrique 😎</strong></h1> 
 
 I am a telecom engineer with 5+ years in network design and maintenance. Skilled in CCNA, HCIA-Security, and Scrum. Passionate about leading teams and innovative projects. Always learning and exploring new tech. Check out my projects and send me a ICMP!
 
