@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 My Name is Enrique 😎
 
-<!--
-**OniremE/OniremE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a telecom engineer with 5+ years in network design and maintenance. Skilled in CCNA, HCIA-Security, and Scrum. Passionate about leading teams and innovative projects. Always learning and exploring new tech. Check out my projects and send me a ICMP!
 
-Here are some ideas to get you started:
+<details>
+<summary>🚀 More about me:</summary>
+ 
+- 🌱 I’m currently learning Cloud Networking and security.
+- 💬 Ask me about CCNA, HCIA, GPON.
+- 😛 share your knowledge!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
