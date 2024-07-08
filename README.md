@@ -1,6 +1,6 @@
 <h1><strong> Hi there 👋 My Name is Enrique 😎</strong></h1> 
 
-I am a telecom engineer with 5+ years in network design and maintenance. Skilled in CCNA, HCIA-Security, and Scrum. Passionate about leading teams and innovative projects. Always learning and exploring new tech. Check out my projects and send me a ICMP!
+I am a telecom engineer with 5+ years in network design and maintenance. Skilled in CCNA, HCIA-Security, and Scrum. Passionate about leading teams and innovative projects. Always learning and exploring new tech. Check out my projects and send me an email!
 
 <details>
 <summary>🚀 More about me:</summary>
@@ -25,4 +25,4 @@ I am a telecom engineer with 5+ years in network design and maintenance. Skilled
 📧 Email: enrrique448@gmail.com
 
 
-Thanks for checking out my GitHub profile! I hope you find something cool here. If you have any questions or just want to say hi, feel free to drop me an email. Have an awesome day!
+Thanks for checking out my GitHub profile! I hope you find something cool here. If you have any question or just want to say hi, feel free to drop me an email. Have an awesome day!
